@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T23:31:07 IST" name="Default suite" finished-at="2022-06-16T23:31:31 IST" duration-ms="24569">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T23:31:07 IST" name="Default test" finished-at="2022-06-16T23:31:31 IST" duration-ms="24569">
+      <class name="test.Pinpom">
+        <test-method is-config="true" signature="browser()[pri:0, instance:test.Pinpom@32ee6fee]" started-at="2022-06-16T23:31:07 IST" name="browser" finished-at="2022-06-16T23:31:20 IST" duration-ms="12998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="loginWithCredentialTest()[pri:0, instance:test.Pinpom@32ee6fee]" started-at="2022-06-16T23:31:20 IST" name="loginWithCredentialTest" finished-at="2022-06-16T23:31:31 IST" duration-ms="11503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCredentialTest -->
+      </class> <!-- test.Pinpom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
