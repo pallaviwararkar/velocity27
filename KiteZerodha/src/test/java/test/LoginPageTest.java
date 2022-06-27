@@ -39,7 +39,10 @@ public void signuplink () {
 	login.clickonsignup();
 	
 }
-
+@Test
+public void signup() {
+	System.out.println("abcd");
+}
 		
 }
 	
